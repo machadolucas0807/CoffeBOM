@@ -3,3 +3,21 @@
 body {
     background-image: linear-gradient(to bottom, #CC7140, #869366 30%, #000000);
 }
+
+header{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
