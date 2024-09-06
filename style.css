@@ -8,10 +8,6 @@ header{
     text-align: center;
 }
 
-div{
-    text-align: center;
-}
-
 footer{
     text-align: center;
     color: white;
@@ -20,4 +16,12 @@ footer{
 img {
     display: block;
     margin: 0 auto;
+}
+
+section{
+    text-align: center;
+}
+
+.tipo_cafe{
+    
 }
