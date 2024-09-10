@@ -1,0 +1,1 @@
+console.log("Olá, seja bem-vindo à CoffeBOM!");
