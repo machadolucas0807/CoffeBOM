@@ -1,11 +1,8 @@
 @charset "UTF-8";
 
-/*Código Importado do Google Fonts*/
-
-
 body {
     background-image: linear-gradient(to bottom, #CC7140, #869366 30%, #000000);
-    font-family: Lato, sans-serif;
+    font-family:sans-serif;
     text-align: center;  
 }
 
@@ -20,9 +17,9 @@ img {
 }
 
 h1{
-    font-family: Merriweather Sans;
+    font-family: serif;
 }
 
 h2 {
-    font-family: Merriweather Sans;
+    font-family: serif;
 }
