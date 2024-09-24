@@ -1,13 +1,18 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300..800&display=swap');
+/*Código Importado do Google Fonts*/
+
 
 body {
     background-image: linear-gradient(to bottom, #CC7140, #869366 30%, #000000);
-    font-family: sans-serif;
-    text-align: center;
+    font-family: Lato, sans-serif;
+    text-align: center;  
 }
 
 footer{
     color: white;
+    
 }
 
 img {
@@ -16,9 +21,9 @@ img {
 }
 
 h1{
-    font-family: serif;
+    font-family: Merriweather Sans;
 }
 
 h2 {
-    font-family: serif;
+    font-family: Merriweather Sans;
 }
