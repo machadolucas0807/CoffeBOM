@@ -1,8 +1,18 @@
 @charset "UTF-8";
+
+@font-face {
+    font-family: 'bold' ;
+    src: url(Midia/Font/EduAUVICWANTGuides-Bold.ttf);
+}
 @font-face {
     font-family: 'semibold' ;
     src: url(Midia/Font/EduAUVICWANTGuides-SemiBold.ttf);
 }
+@font-face {
+    font-family: 'medium' ;
+    src: url(Midia/Font/EduAUVICWANTGuides-Medium.ttf);
+}
+
 @font-face {
     font-family: 'regular' ;
     src: url(Midia/Font/EduAUVICWANTGuides-Regular.ttf);
@@ -11,12 +21,25 @@
 body {
     background-image: linear-gradient(to bottom, #CC7140, #869366 30%, #000000);
     font-family:sans-serif;
-    text-align: center;  
 }
 
-footer{
-    color: white;
-    
+header{
+    text-align: center;
+}
+
+article{
+    justify-content: center;
+}
+
+h1{
+    font-family: 'bold', serif;
+}
+h2 {
+    font-family: 'semibold' , serif;
+    text-align: center;
+}
+h3{
+    font-family: 'medium', serif;
 }
 
 img {
@@ -24,10 +47,6 @@ img {
     margin: 0 auto;
 }
 
-h1{
-    font-family: 'semibold' ;
-}
-
-h2 {
-    font-family: 'regular';
+footer{
+    color: white;
 }
