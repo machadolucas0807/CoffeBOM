@@ -1,2 +1,0 @@
-# CoffeBOM
- Primeiro Projeto

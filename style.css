@@ -1,4 +1,12 @@
 @charset "UTF-8";
+@font-face {
+    font-family: 'semibold' ;
+    src: url(Midia/Font/EduAUVICWANTGuides-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'regular' ;
+    src: url(Midia/Font/EduAUVICWANTGuides-Regular.ttf);
+}
 
 body {
     background-image: linear-gradient(to bottom, #CC7140, #869366 30%, #000000);
@@ -17,9 +25,9 @@ img {
 }
 
 h1{
-    font-family: serif;
+    font-family: 'semibold' ;
 }
 
 h2 {
-    font-family: serif;
+    font-family: 'regular';
 }
