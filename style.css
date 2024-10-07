@@ -27,8 +27,9 @@ header{
     text-align: center;
 }
 
-article{
-    justify-content: center;
+p{
+    text-align: justify;
+    text-indent: 4%;
 }
 
 h1{
@@ -40,6 +41,7 @@ h2 {
 }
 h3{
     font-family: 'medium', serif;
+    text-align: left;
 }
 
 img {
